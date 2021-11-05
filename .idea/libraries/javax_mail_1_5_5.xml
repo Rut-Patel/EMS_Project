@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="javax.mail-1.5.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/javax.mail-1.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/postgresql-9.4-1200.jdbc41 (1).jar!/" />
+      <root url="jar://$PROJECT_DIR$/servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
